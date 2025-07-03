@@ -38,7 +38,7 @@ A real-time Face Recognition–based Attendance System built with **OpenCV**, **
 4. If unrecognized:
    - After a few consistent "Unknown" frames, the right panel appears.
    - User enters their name and clicks "Register".
-   - 50 face images are captured.
+   - 25 face images are captured.
    - Data is processed and model is retrained.
    - The system is automatically updated.
 
